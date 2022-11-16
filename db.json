@@ -1,5 +1,5 @@
 {
   "products":[
-    {name: "Laptop", price: 60000, qty: 2},
+    {"name": "Laptop", "price": 60000, "qty": 2},
   ]
 }
