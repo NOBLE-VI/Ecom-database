@@ -4,7 +4,7 @@
     { "qty": 1, "title": "Bag", "price": 100 },
     { "qty": 1, "title": "Phone", "price": 2000 },
     { "qty": 1, "title": "Graphics card", "price": 45000 },
-    { "qty": 1, "title": "watch", "price": 3000 },
+    { "qty": 1, "title": "watch", "price": 3000 }
   
   ],
   "comments": [
