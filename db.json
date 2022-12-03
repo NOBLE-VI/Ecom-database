@@ -1,10 +1,12 @@
 {
   "products": [
-    { "img":"https://m.media-amazon.com/images/I/41sQwpTi-pL.jpg" , "qty": 1, "title": "Laptop", "price": 1 },
-    { "img":"https://m.media-amazon.com/images/I/81KEKEDFUcL._SY879_.jpg" , "qty": 1, "title": "Bag", "price": 100 },
-    { "img":"https://m.media-amazon.com/images/I/41iHN9Y07cS._SX300_SY300_QL70_FMwebp_.jpg" , "qty": 1, "title": "Phone", "price": 2000 },
+    { "img":"https://m.media-amazon.com/images/I/41sQwpTi-pL.jpg" , "qty": 1, "title": "Laptop", "price": 100000 },
+    { "img":"https://m.media-amazon.com/images/I/81KEKEDFUcL._SY879_.jpg" , "qty": 1, "title": "Bag", "price": 500 },
+    { "img":"https://m.media-amazon.com/images/I/41iHN9Y07cS._SX300_SY300_QL70_FMwebp_.jpg" , "qty": 1, "title": "Phone", "price": 20000 },
     { "img":"https://m.media-amazon.com/images/I/617uGofduYL._SX522_.jpg" , "qty": 1, "title": "Graphics card", "price": 45000 },
-    { "img":"https://m.media-amazon.com/images/I/81QgBWLz5JS._UX522_.jpg" , "qty": 1, "title": "watch", "price": 3000 }
+    { "img":"https://m.media-amazon.com/images/I/81QgBWLz5JS._UX522_.jpg" , "qty": 1, "title": "watch", "price": 3000 },
+    { "img":"https://m.media-amazon.com/images/I/616ljqKS+xL._SL1500_.jpg" , "qty": 1, "title": "Mouse", "price": 5000 },
+    { "img":"https://m.media-amazon.com/images/I/61aLdtWG6hL._SL1500_.jpg" , "qty": 1, "title": "Headphone", "price": 3000 }
   
   ]
 }
